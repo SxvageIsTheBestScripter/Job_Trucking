@@ -22,4 +22,4 @@ Based on how many trailers the player has delivered.
 > - Initial Release 
 
 Made by Sxvage
-/nDiscord : Foundin_God#8416
+(Discord : Foundin_God#8416)
