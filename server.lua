@@ -19,7 +19,7 @@ RegisterNetEvent("sxvage_jobs:finished")
     AddEventHandler("sxvage_jobs:finished", function()
     local src = source
     local xPlayer = ESX.GetPlayerFromId(source)
-	local amount = Config.PayPerDelivery * deliveries[src]
+	local amount = Config.Pay * deliveries[src]
 	if playersOnJob[src] and not isClientTooFar(Config.DepotLocation) then
         deliveries[src] = 0
         playersOnJob[src] = false
