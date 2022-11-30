@@ -20,3 +20,6 @@ Based on how many trailers the player has delivered.
 
 ## :white_check_mark: **Changelog**
 > - Initial Release 
+
+Made by Sxvage
+Discord : Foundin_God#8416
